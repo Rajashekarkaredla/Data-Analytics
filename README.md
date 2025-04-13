@@ -1,10 +1,8 @@
-# 📊 Data Analysis & Visualization: Telecommunication & Vehicle Sales
+📊 Data Analysis & Visualization: Telecommunication & Vehicle Sales
+This project involves the analysis and visualization of two datasets using Python, with the help of libraries like Pandas, Matplotlib, and Seaborn.
 
-This project focuses on analyzing and visualizing two datasets using Python and popular libraries like Pandas, Matplotlib, and Seaborn. The datasets are:
+📞 Telecommunication Data
+Gain insights into customer usage patterns, churn rates, and service preferences.
 
-- **Telecommunication Data**: Insights into customer usage, churn rate, and service preferences.
-- **Vehicle Sales Data**: Trends and patterns in sales volume, revenue, and regional performance.
-
----
-
-
+🚗 Vehicle Sales Data
+Explore trends in sales volume, revenue, product performance, and regional distribution.
