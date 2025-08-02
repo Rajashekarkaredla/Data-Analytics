@@ -1,5 +1,6 @@
 📊 AI, Data Analytics & Visualization Projects
 Welcome! This repository showcases my work in data analytics, data science, and generative AI, with a focus on uncovering insights, building visualizations, and creating interactive dashboards that turn data into clear, actionable stories.
+
 📁 Project Overview
 🔍 Data Analysis
 Notebooks and scripts that explore real-world datasets — including data cleaning, preprocessing, and in-depth analysis to identify trends, patterns, and meaningful correlations.
